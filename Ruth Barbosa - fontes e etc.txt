@@ -1,0 +1,27 @@
+TIPOGRAFIAS - ANTES DAS ALTERAÇÕES
+
+• título1 - Kumbh Sans / Regular / tam 63.07 / Lh 86.7
+• título2 - Kumbh Sans / Regular / tam 48 / Lh 60
+• título3 - Kumbh Sans / Regular / tam 28 / Lh 35
+• fonte1 (nav) - Kumbh Sans / Medium - Regular / tam 24 / Lh 30
+• fonte2 (texto) - Inter / Medium - Regular / tam 24 / Lh 33
+
+TIPOGRAFIAS - DEPOIS DAS ALTERAÇÕES
+
+• fonte1 (nav) - Humbh Sans / Medium / tam 20px 1.25rem / Lh 28px 1.75rem
+• fonte2 (texto) - Inter / Regular / tam 20px 1.5rem / Lh 28px 1.75rem
+
+Kumbh Sans Regular: 400
+Kumbh Sans Medium: 500
+
+Inter Regular: 400
+Inter Medium: 500
+
+
+COISAS P/ FAZER AINDA
+- letas de contato e sobre
+- Dxar a tela inicial responsiva
+- Alterar a logo para um svg não derivado de um png
+- Ajeitar padding/margem do header
+- Slides na tela inicial
+- expandir a imagem da tela inicial pelas bordas com IA, p/ que fique melhor em telas grandes tb
